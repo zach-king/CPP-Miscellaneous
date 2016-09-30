@@ -115,8 +115,8 @@ int main()
 	int answer;
 	answer = exp(input);
 
-	cout << "Answer to this expression" << endl;
-	cout << answer << endl;
+	cout << "Answer to this expression: " << answer << endl << endl;
 
+    system("pause");
     return 0;
 }
